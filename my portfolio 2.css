@@ -1,0 +1,27 @@
+h2{
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+body{
+    background-color: black;
+    background-image: url(download portfolio 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    section{
+color: #e8491d;
+    }
+aside{
+    color: aqua;
+}
+
+footer{
+    align-content: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    
+}
